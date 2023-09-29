@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gihwan</h1>
-<h3 align="center">A passionate frontend developer from Korea!</h3>
+<h1 align="center">프런트 엔드 개발자 최기환 입니다!👋</h1>
+<h3 align="center">대학생 4학년 재학중입니다!</h3>
 
 - 🔭 I’m currently working on **some project**
 
