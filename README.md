@@ -1,5 +1,5 @@
 <h1 align="center">프런트 엔드 개발자 최기환 입니다!👋</h1>
-<h3 align="center">대학생 4학년 재학중입니다!</h3>
+<h3 align="center">대학생 4학년 재학중이며 프론트엔드 뿐만아니라 백엔드까지 웹 개발 전반에 관심을 가지고 공부중입니다</h3>
 
 - 🔭 I’m currently working on **some project**
 
