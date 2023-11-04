@@ -8,7 +8,7 @@
 
 <h3 align="left">알고리즘:</h3>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={rlghks9806})](https://solved.ac/{rlghks9806})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={rlghks9806@gmail.com})](https://solved.ac/{rlghks9806@gmail.com})
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gihwan-dev)](https://github.com/anuraghazra/github-readme-stats)
 
