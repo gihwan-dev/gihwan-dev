@@ -48,7 +48,7 @@
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 
-<h2>Commit Challenge</h2>
+<h2>1일 1커밋 챌린지</h2>
 Byeolnabi's chart
 <img src="https://ghchart.rshah.org/Byeolnabi" alt="Byeolnabi's chart">
 <hr/>
