@@ -48,3 +48,19 @@
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 
+<h2>Commit Challenge</h2>
+Byeolnabi's chart
+<img src="https://ghchart.rshah.org/Byeolnabi" alt="Byeolnabi's chart">
+---
+ Baek-Seungyeop's chart
+<img src="https://ghchart.rshah.org/Baek-Seungyeop" alt=" Baek-Seungyeop chart">
+---
+ tlswl7479's chart
+<img src="https://ghchart.rshah.org/tlswl7479" alt=" tlswl7479's chart">
+---
+ gihwan-dev's chart
+<img src="https://ghchart.rshah.org/gihwan-dev" alt="gihwan-dev's chart">
+---
+ vvalvvizal's chart
+<img src="https://ghchart.rshah.org/vvalvvizal" alt="vvalvvizal chart">
+---
