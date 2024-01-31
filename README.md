@@ -51,16 +51,16 @@
 <h2>Commit Challenge</h2>
 Byeolnabi's chart
 <img src="https://ghchart.rshah.org/Byeolnabi" alt="Byeolnabi's chart">
----
+<hr/>
  Baek-Seungyeop's chart
 <img src="https://ghchart.rshah.org/Baek-Seungyeop" alt=" Baek-Seungyeop chart">
----
+<hr/>
  tlswl7479's chart
 <img src="https://ghchart.rshah.org/tlswl7479" alt=" tlswl7479's chart">
----
+<hr/>
  gihwan-dev's chart
 <img src="https://ghchart.rshah.org/gihwan-dev" alt="gihwan-dev's chart">
----
+<hr/>
  vvalvvizal's chart
 <img src="https://ghchart.rshah.org/vvalvvizal" alt="vvalvvizal chart">
----
+<hr/>
