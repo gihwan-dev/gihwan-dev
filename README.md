@@ -12,7 +12,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+<br/>
 
 <h2>1일 1커밋 챌린지</h2>
 <p>학교 후배들을 이끌고 1일 1커밋 챌린지를 운영하고 있습니다. 아래는 함께 진행중인 후배들의 커밋 현황입니다. </p>
@@ -31,3 +31,5 @@ Byeolnabi's chart
  vvalvvizal's chart
 <img src="https://ghchart.rshah.org/vvalvvizal" alt="vvalvvizal chart">
 <hr/>
+
+![footer](https://capsule-render.vercel.app/api?section=footer)
