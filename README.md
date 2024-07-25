@@ -19,7 +19,6 @@
 <br/>
 
 <h2>1일 1커밋 챌린지</h2>
-<p>학교 후배들을 이끌고 1일 1커밋 챌린지를 운영하고 있습니다. 아래는 함께 진행중인 후배들의 커밋 현황입니다. </p>
 Byeolnabi's chart
 <img src="https://ghchart.rshah.org/Byeolnabi" alt="Byeolnabi's chart">
 <hr/>
