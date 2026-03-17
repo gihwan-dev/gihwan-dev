@@ -36,18 +36,6 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
 
-### 🔮 **Exploring & Interested**
-> *AI 통합, 모노레포 관리, 백엔드 아키텍처에 관심을 두고 학습 중입니다.*
-
-<div align="left">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Turborepo-EF5B25?style=for-the-badge&logo=turborepo&logoColor=white" />
-</div>
-
-<br/>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
